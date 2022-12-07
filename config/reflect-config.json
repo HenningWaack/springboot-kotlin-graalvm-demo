@@ -1,0 +1,56 @@
+[
+  {
+    "name": "com.example.demo.basics.Customer",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queryAllPublicMethods": true,
+    "queryAllDeclaredConstructors": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.Long",
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "component1",
+        "parameterTypes": []
+      },
+      {
+        "name": "component2",
+        "parameterTypes": []
+      },
+      {
+        "name": "copy",
+        "parameterTypes": [
+          "java.lang.Long",
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "copy$default",
+        "parameterTypes": [
+          "com.example.demo.basics.Customer",
+          "java.lang.Long",
+          "java.lang.String",
+          "int",
+          "java.lang.Object"
+        ]
+      },
+      {
+        "name": "equals",
+        "parameterTypes": [
+          "java.lang.Object"
+        ]
+      },
+      {
+        "name": "hashCode",
+        "parameterTypes": []
+      },
+      {
+        "name": "toString",
+        "parameterTypes": []
+      }
+    ]
+  }]
